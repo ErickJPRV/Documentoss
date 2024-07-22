@@ -1,0 +1,40 @@
+Sistemas Distribuidos:
+-Mantener la coherencia entre los datos
+-Sincronizacion de datos
+-Escalabilidad
+-Alta disponibilidad
+Auditoria: los datos no falten, como datos bancarios
+--------------------------------------------------------------------------------
+El sistema peruano la arquitectura peruano del software peruano?(JUEVES INVESTIGAR) arquitectura de red de software peruano, como funciona, centralizacion de datos, copias de datos
+------------------------------------------------------------------------------------
+
+DISPARADORES (TRIGGERS):
+Eventos:accionado por acciones en la base de datos(insertar,actualizar,borrar)
+Logica:Para que sirve cada datos
+Acciones:
+
+TIPOS:
+-DISPARADOR DE INSERCION:
+-DISPARADOR DE ACtUALIZACION
+-DISPARADOR DE ELIMINACION
+
+Replicacion con disparador:
+1. Actualizacion de registro: usuario inserta un datos
+2. Disparador activado: el disparador se activa
+3. Replicacion de datos: replica los cambios a la base de datos secundaria
+4. Actualizacion completada: La base de datos secundaria se actualiza
+
+CASOS COMUNES:
+-E-COMMERCE
+-BANCA:
+-Redes SOCIALES
+-Atencion Medica
+-------------------------------------------------------------------------------
+SEDES: para el trabajo final detectable
+-CUBOS OLAP
+-------------------------------------------------------------------------------
+PROYECTO FINAL:
+-ARQUITECTURA DEL SOFTWARE
+-COMUNICACION EN TIEMPO REAL
+-BASE DE  DATOS
+-------------------------------------------------------------------------------------
