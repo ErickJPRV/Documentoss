@@ -1,0 +1,2 @@
+VisualStudioSetup.exe --path E:\VisualStudio --path cache=E:\VisualStudio\cache --path shared=E:\VisualStudio\shared
+estara bien?
